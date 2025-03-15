@@ -66,7 +66,7 @@ libft/
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your-username/libft.git
+   git clone https://github.com/LMAymane/LIBFT.git
    ```
 2. **Compile the library**:
    ```bash  
